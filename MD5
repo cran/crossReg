@@ -1,0 +1,11 @@
+551d54dd1c3cbacfe97503a0eaa56ff4 *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+d55b93ad666b57b69336232f666c29f8 *R/BootC.R
+8264bc7caa2ee614ff83aa1f57120359 *R/DeltaC.R
+881814c0c1dd24aba60913a53da7aa91 *R/FiellerC.R
+85f4aaac016f0b78ec6736fa468aae6b *R/nonLinearC.R
+88710380faba22365ccab9e4c12156e4 *man/BootC.Rd
+b4478904b22b95e6bc05348c6c5c8915 *man/DeltaC.Rd
+d257669a0f0c65c0dc96124da32c9192 *man/FiellerC.Rd
+0f5c1a09b473dc44e3583ca8fbf1bbfb *man/crossReg-package.Rd
+368bf7c9f704c821554837577e8caa7b *man/nonLinearC.Rd
